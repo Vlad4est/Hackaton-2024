@@ -1,1 +1,4 @@
-zsteg 3.bmp
+zsteg -a 3.bmp
+
+GASESTECEAMAIBUNAPERECHEDEDIFERENTEUTILAINATACULDIFERENTIAL.AGENTUL
+Găsește cea mai bună pereche de diferențe utile în atacul diferențial. Agentul.
